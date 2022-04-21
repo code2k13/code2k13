@@ -1,8 +1,7 @@
-### Hi there 👋, I am Ashish Patil (he/him/his)
- 
+### Hi there 👋, this is Ashish (he/him/his) ! 
 
 I am a software architect with 17 years of experience in design and development of solutions for multiple domains. Hands-on with machine learning,
-Google Cloud and full stack web development. Avid learner, blogger and experimenter of new technologies. I have recently started contributing to open source.
+Google Cloud and full stack web development. Avid learner, blogger and experimenter of new technologies.  
 
 Check out my 
 - Blog for some stuff and experiments I am engaged with : [https://ashishware.com/](https://ashishware.com/) 
