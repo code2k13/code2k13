@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Ashish (he/him/his) ! 
 
-I am a software architect with 17 years of experience in design and development of solutions for multiple domains. Hands-on with machine learning,
+I am a software architect with 20 years of experience in design and development of solutions for multiple domains. Hands-on with machine learning,
 Google Cloud and full stack web development. Avid learner, blogger and experimenter of new technologies.  
 
 Check out my 
